@@ -1,1 +1,5 @@
 Update this license file with licensing details.
+license files are important because it give insights to the users about
+ the changes the application can make to there devices, also a form of 
+ agreement with the users on how or what there data are used for.
+Michael Obikwere.
